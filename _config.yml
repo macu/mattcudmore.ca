@@ -1,0 +1,15 @@
+url: http://mattcudmore.ca
+title: Matt Cudmore
+
+encoding: utf-8
+exclude: ['README.md']
+paginate: 25
+permalink: /:categories/:year-:month-:day-:title/
+timezone: America/Halifax
+
+markdown: kramdown
+kramdown:
+  extensions:
+    - autolink
+    - footnotes
+    - smart

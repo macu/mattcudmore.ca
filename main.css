@@ -1,0 +1,8 @@
+body {
+	height: 100%;
+	padding: 1em 2em;
+}
+
+p, li {
+	font-family: "serif";
+}
