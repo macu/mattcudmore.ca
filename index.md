@@ -6,42 +6,36 @@ layout: base
 
 ## What I could be doing
 
-Snapshot of my routine activities, August 2015
+Snapshot of my routine activities, Jan 2017
 
 - Working
 	- Writing web apps
-	- Writing mobile apps
-	- Writing user guides
-	- Answering the phone
 - Walking
-	- In the morning
-	- Downtown to get supper
-	- Before bed
-- Biking
-	- Racing to the shore at lunch
-	- After work
+	- To work
+	- Around the lunch loop
+	- Home from work
+	- Home from my nan's
+	- McDonalds, Tims, the gas station
 - Sitting
-	- In the park
-	- On the waterfront
-	- Somewhere random
-	- Smoking
+	- On a bench eating
+	- On the ferry
+	- Smoking a cigarr
 	- Having tea
-	- Writing and drawing
-	- Texting
-	- Full-blast perception
+	- In the kitchen with dragon
+	- Computer desk doing this shit
 - Visiting family
-	- Watching TV
-	- Grocery shopping
-- Reading Hacker News
-	- Following links
-- Napping
-	- Passed out, no choice
-	- Trying not to sleep too much
-		- Getting better at it
+	- Watching a movie, Family Feud, King of Queens, Modern Family
+	- Having supper
+- On my phone
+	- Hacker News
+	- What how Google?
+	- News
+	- Dumb Facebook
+	- Twitter ~a bit
+	- Day2day every day!
 - With friends
-	- <!-- Dennis -->
+	- <!-- -->
 
 ## How you can contact me
 
-- Tweet <a href="https://twitter.com/mattcdmr">@mattcdmr</a>
-- Email <a href="mailto:cudmore.mb@gmail.com">cudmore.mb@gmail.com</a>
+- Tweet <a href="https://twitter.com/amma_matt">@amma_matt</a>
